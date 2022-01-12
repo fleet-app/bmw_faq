@@ -1,0 +1,5 @@
+languageCode = 'en-us'
+title = 'BMW FAQ'
+baseURL = "/"
+themesDir = "themes"
+theme = "hugo-whisper-theme"
