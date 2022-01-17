@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>BMW Support Page on BMW FAQ</title>
-    <link>/</link>
-    <description>Recent content in BMW Support Page on BMW FAQ</description>
+    <title>Docs on BMW FAQ</title>
+    <link>/docs/</link>
+    <description>Recent content in Docs on BMW FAQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Feb 2019 19:30:08 +1000</lastBuildDate><atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Insurance Term</title>
       <link>/docs/insurance/</link>
