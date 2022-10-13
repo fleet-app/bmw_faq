@@ -4,17 +4,6 @@ baseURL = "/"
 themesDir = "themes"
 theme = "hugo-whisper-theme"
 
-[[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
-
-[[menu.main]]
-name = "Docs"
-url = "/docs/"
-weight = 2
-
-
 [params]
   homepage_button_link = '/docs'
   homepage_button_text = 'Read The Docs'
