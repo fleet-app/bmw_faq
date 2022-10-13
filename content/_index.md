@@ -9,15 +9,11 @@ weight: 1
 For General Support:
 
 BMW Rent Team
-
 1) In app – using the app messaging functionality
-
 2) Phone – calling the BMW Rent phone line on 0370 5050 158
-
 3) Email - bmw.rent@alphabet.co.uk
 
 The team will be able to answer your queries Monday – Friday 9:00 – 17:15
-
 
 
 In case of a Breakdown:
