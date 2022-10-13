@@ -1,13 +1,13 @@
-languageCode = 'en-us'
+languageCode = 'en'
 title = 'BMW FAQ'
 baseURL = "/"
 themesDir = "themes"
 theme = "hugo-whisper-theme"
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
 
 [params]
-  homepage_button_link = '/docs'
-  homepage_button_text = 'Read The Docs'
-  homepage_intro = 'BMW RENT Term and Condition'
   homepage_image = '/images/logo.png'
 
   [params.logo]
