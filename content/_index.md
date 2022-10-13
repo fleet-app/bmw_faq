@@ -6,16 +6,69 @@ weight: 1
 
 ## BMW Support Page
 
+For General Support:
 
-Lorem ipsum dolor sit amet, his id sale constituam. Ex qui commodo ceteros instructior. Ex enim iudico veniam usu, sea sumo debitis conclusionemque ea. Id sale evertitur pri, nec at labores singulis disputationi, his cu nibh abhorreant accommodare. Ea bonorum quaerendum delicatissimi sit, ceteros urbanitas eum ut.
+BMW Rent Team
 
-Eleifend corrumpit sit id, agam utinam quidam ad nam. Rationibus adversarium mea ex, aperiam accusam signiferumque no nec. Mei nullam everti in, impedit civibus oportere ex vis. Ea eam purto debet expetendis. Ceteros scaevola ex qui, eam mandamus consequuntur ex. Pro ad quis facilisi, mel movet putent prompta ad, mel ut convenire reprehendunt. Solum voluptatibus et sit, ubique doming mel ne.
+1) In app – using the app messaging functionality
 
-Est causae alterum civibus id, ei duo vocent oblique atomorum, ius nemore aliquam an. No usu solet vulputate, at nam oratio corrumpit percipitur. Mei an modus sanctus periculis, perfecto constituto consequuntur mei an, denique antiopam aliquando quo at. Ea noster epicuri mandamus duo.
+2) Phone – calling the BMW Rent phone line on 0370 5050 158
 
-Amet dico omittantur cu cum, duis insolens maiestatis mel at. Postea euripidis ut ius, eos fabellas inciderint ex. Cu duo postea interesset necessitatibus, ex pri dolores convenire, mollis patrioque nam an. Ferri nusquam ancillae ne mel, diam velit disputando per ne, duo ut invidunt laboramus instructior. Omnes tractatos philosophia vis ut.
+3) Email - bmw.rent@alphabet.co.uk
 
-Eum eu aliquando consetetur temporibus, ceteros signiferumque te est. Eu his ignota lobortis iudicabit. Ea euripidis voluptaria vis. Ei mea quas audiam. Nihil iudicabit sed in.
+The team will be able to answer your queries Monday – Friday 9:00 – 17:15
+
+
+
+In case of a Breakdown:
+
+Breakdown Services
+
+0370 5050 158 (Option 1)
+
+
+
+In case of an Accident:
+
+Accident Management
+
+0370 5050 158 (Option 2) Ensure you contact our Accident Management provider within 72 hours of the incident.
+
+
+
+Getting Here
+
+Arrival Prior to Rental
+
+BMW Park Lane, London
+
+70 Park Lane, London, W1K 7TT 0330 162 2113
+
+BMW Park Lane 3 words location - https://what3words.com/worker.natively.pure
+
+Please arrive at the showroom reception 15 minutes prior to booking appointment.
+
+
+
+Return of the Vehicle
+
+Q-Park Park Lane (Large underground car park underneath Hyde Park, Entrance from Park Lane driving North)
+
+Park Lane, London, W1K 7AN
+
+Q-parks 3 words location https://what3words.com/stir.table.forest
+
+
+
+Trouble getting here?
+
+Call BMW Park Lane at 0330 162 2113
+
+
+
+Frequently Asked Questions
+
+For full FAQ’s please visit https://parklane.prodservice.bmwroln.co.uk/hero-content/rental-faqs/
 
 
 
