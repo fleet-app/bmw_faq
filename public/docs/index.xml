@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docs on BMW FAQ</title>
@@ -6,7 +6,11 @@
     <description>Recent content in Docs on BMW FAQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Feb 2019 19:30:08 +1000</lastBuildDate><atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Feb 2019 19:30:08 +1000</lastBuildDate>
+    
+	<atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Insurance Term</title>
       <link>/docs/insurance/</link>
@@ -14,7 +18,9 @@
       
       <guid>/docs/insurance/</guid>
       <description>&lt;p&gt;this is Insurance Term page&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, his id sale constituam. Ex qui commodo ceteros instructior. Ex enim iudico veniam usu, sea sumo debitis conclusionemque ea. Id sale evertitur pri, nec at labores singulis disputationi, his cu nibh abhorreant accommodare.&lt;/p&gt;</description>
+
+&lt;p&gt;Lorem ipsum dolor sit amet, his id sale constituam. Ex qui commodo ceteros instructior. Ex enim iudico veniam usu, sea sumo debitis conclusionemque ea. Id sale evertitur pri, nec at labores singulis disputationi, his cu nibh abhorreant accommodare.
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -24,7 +30,9 @@
       
       <guid>/docs/policy/</guid>
       <description>&lt;p&gt;this is policy page&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, his id sale constituam. Ex qui commodo ceteros instructior. Ex enim iudico veniam usu, sea sumo debitis conclusionemque ea. Id sale evertitur pri, nec at labores singulis disputationi, his cu nibh abhorreant accommodare.&lt;/p&gt;</description>
+
+&lt;p&gt;Lorem ipsum dolor sit amet, his id sale constituam. Ex qui commodo ceteros instructior. Ex enim iudico veniam usu, sea sumo debitis conclusionemque ea. Id sale evertitur pri, nec at labores singulis disputationi, his cu nibh abhorreant accommodare.
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -34,7 +42,9 @@
       
       <guid>/docs/terms/</guid>
       <description>&lt;p&gt;this is faq page&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, his id sale constituam. Ex qui commodo ceteros instructior. Ex enim iudico veniam usu, sea sumo debitis conclusionemque ea. Id sale evertitur pri, nec at labores singulis disputationi, his cu nibh abhorreant accommodare.&lt;/p&gt;</description>
+
+&lt;p&gt;Lorem ipsum dolor sit amet, his id sale constituam. Ex qui commodo ceteros instructior. Ex enim iudico veniam usu, sea sumo debitis conclusionemque ea. Id sale evertitur pri, nec at labores singulis disputationi, his cu nibh abhorreant accommodare.
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -44,7 +54,9 @@
       
       <guid>/docs/what/</guid>
       <description>&lt;p&gt;This is what page&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, his id sale constituam. Ex qui commodo ceteros instructior. Ex enim iudico veniam usu, sea sumo debitis conclusionemque ea. Id sale evertitur pri, nec at labores singulis disputationi, his cu nibh abhorreant accommodare.&lt;/p&gt;</description>
+
+&lt;p&gt;Lorem ipsum dolor sit amet, his id sale constituam. Ex qui commodo ceteros instructior. Ex enim iudico veniam usu, sea sumo debitis conclusionemque ea. Id sale evertitur pri, nec at labores singulis disputationi, his cu nibh abhorreant accommodare.
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -54,7 +66,9 @@
       
       <guid>/docs/faq/</guid>
       <description>&lt;p&gt;this is faq page&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, his id sale constituam. Ex qui commodo ceteros instructior. Ex enim iudico veniam usu, sea sumo debitis conclusionemque ea. Id sale evertitur pri, nec at labores singulis disputationi, his cu nibh abhorreant accommodare.&lt;/p&gt;</description>
+
+&lt;p&gt;Lorem ipsum dolor sit amet, his id sale constituam. Ex qui commodo ceteros instructior. Ex enim iudico veniam usu, sea sumo debitis conclusionemque ea. Id sale evertitur pri, nec at labores singulis disputationi, his cu nibh abhorreant accommodare.
+&lt;/p&gt;</description>
     </item>
     
   </channel>

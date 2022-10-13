@@ -21,29 +21,21 @@ The team will be able to answer your queries Monday – Friday 9:00 – 17:15
 
 
 In case of a Breakdown:
-
 Breakdown Services
-
 0370 5050 158 (Option 1)
 
 
 
 In case of an Accident:
-
 Accident Management
-
 0370 5050 158 (Option 2) Ensure you contact our Accident Management provider within 72 hours of the incident.
 
 
 
 Getting Here
-
 Arrival Prior to Rental
-
 BMW Park Lane, London
-
 70 Park Lane, London, W1K 7TT 0330 162 2113
-
 BMW Park Lane 3 words location - https://what3words.com/worker.natively.pure
 
 Please arrive at the showroom reception 15 minutes prior to booking appointment.
@@ -51,23 +43,17 @@ Please arrive at the showroom reception 15 minutes prior to booking appointment.
 
 
 Return of the Vehicle
-
 Q-Park Park Lane (Large underground car park underneath Hyde Park, Entrance from Park Lane driving North)
-
 Park Lane, London, W1K 7AN
-
 Q-parks 3 words location https://what3words.com/stir.table.forest
 
 
 
 Trouble getting here?
-
 Call BMW Park Lane at 0330 162 2113
 
 
-
 Frequently Asked Questions
-
 For full FAQ’s please visit https://parklane.prodservice.bmwroln.co.uk/hero-content/rental-faqs/
 
 
