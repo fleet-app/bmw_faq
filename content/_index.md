@@ -47,7 +47,7 @@ In app – Using the BMW Rent app messaging function.
 
 The operations team working hours are [Monday to Friday | 09:00 - 17:00]
 
-Getting Heree
+Getting Here
 Arrival Prior to Rental
 BMW Park Lane, London
 70 Park Lane, London, W1K 7TT 0330 162 2113
