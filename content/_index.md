@@ -24,9 +24,28 @@ Breakdown Services
 
 In case of an Accident:
 Accident Management
-0370 5050 158 (Option 2) Ensure you contact our Accident Management provider within 72 hours of the incident.
+0370 5050 158 (Option 2)
+It is the driver’s responsibility to report any accident within 72 hours of the incident
 
+In case of Puncture:
+Replacement Tyres
+0370 5050 158 (Option 3)
 
+In case of Windscreen Damage:
+Replacement or Windscreen Repairs
+0370 5050 158 (Option 4)
+
+In case of Vehicle Service or Technical Issues:
+Driver Services
+0370 5050 158 (Option 5)
+
+BMW Rent Operations Team:
+General Enquiries
+0370 5050 158 (Option 6)
+bmw.rent@alphabet.co.uk
+In app – Using the BMW Rent app messaging function.
+
+The operations team working hours are [Monday to Friday | 09:00 - 17:00]
 
 Getting Here
 Arrival Prior to Rental
